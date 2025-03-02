@@ -1,4 +1,4 @@
-# Regression-ML-House-Princing
+# Store Sales - Time Series Forecasting
 
 **Description**
 
