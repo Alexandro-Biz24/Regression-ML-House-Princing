@@ -9,6 +9,9 @@ Specifically, you'll build a model that more accurately predicts the unit sales 
 **The evaluation metric for this competition is Root Mean Squared Logarithmic Error.**
 
 **The RMSLE is calculated as:**
+
+
+
 ![Root Mean Square Log Error Formula](RMSLE_formula.png)
 
 
